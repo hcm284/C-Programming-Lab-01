@@ -1,0 +1,13 @@
+/* Fahrenheit to Celsius*/
+
+#include <stdio.h>
+
+int main()
+{
+	int i, j;
+	printf ("Fahrenheit	Celsius\n")
+	for (i = 0; i < 301; i++)
+		j = 5/9(i-32)
+	printf ("%d	%d \n", i, j);
+	return 0;
+}
