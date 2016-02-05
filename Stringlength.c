@@ -5,7 +5,7 @@ int stringlength(char str[]);
 
 int main()
 {
-	char str[] = "'Master of Puppets!'"; /* added single quotation marks to better separate the string from the rest of the output and created own string for easier identification*/
+	char str[] = "'Master of Puppets!!'"; /* added single quotation marks to better separate the string from the rest of the output and created own string for easier identification*/
 
 	printf ("The lenght of the string %s is %d ", 
 		str, stringlength(str));
